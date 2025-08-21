@@ -60,6 +60,6 @@ python manage.py test
 
 ---
 
-##License
+## License
 
 This project is licensed under the MIT License.
