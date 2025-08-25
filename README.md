@@ -33,7 +33,7 @@ sticky_notes/
 ## Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/sticky-notes.git
+   git clone https://github.com/Gio-ZA/sticky-notes.git
    cd sticky-notes
 
 2. Create and activate a virtual environment:
